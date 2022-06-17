@@ -123,4 +123,8 @@ public class PTOC extends LN {
     public void setAccelerat(Attribute<Boolean> accelerat) {
         this.accelerat = accelerat;
     }
+
+    public void setStrVal(ASG strVal) {
+        StrVal = strVal;
+    }
 }
